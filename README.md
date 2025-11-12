@@ -44,7 +44,7 @@ g++ tcp_client.cpp -o client
   ipconfig
 
 ## Author & License (Optional)
-Developed by **Mukesh Kumar Singh**  
+Developed by **Mukesh Kumar Singh**  and **Rishikesh Jaiswal**
 Language: **C++17**  
 Platforms: **Windows & macOS**
 
